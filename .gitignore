@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Jason sez: Exclude
+output\
+
 # =========================
 # Operating System Files
 # =========================
